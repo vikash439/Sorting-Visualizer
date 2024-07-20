@@ -1,8 +1,8 @@
-# Sorting Visualizer 📊
+![image](https://github.com/user-attachments/assets/05c7fe48-1c41-475d-9fac-21e509ffa068)# Sorting Visualizer 📊
 
 Welcome to the Sorting Visualizer! 🎉 This project visualizes various sorting algorithms, making it easier to understand how they work. You can see the algorithms in action right in your web browser.
 
-[![Sorting Visualizer](path/to/your/image.png)](https://github.com/your-username/sorting-visualizer)
+[![Sorting Visualizer](preview.png)](https://eclectic-alpaca-b91896.netlify.app/)
 
 Click the image above to view the project.
 
